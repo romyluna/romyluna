@@ -1,6 +1,6 @@
-<!-- Banner arriba -->
+<!-- Banner-->
 <p align="center">
-  <img src="https://i.imgur.com/yourbanner.png" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
+  <img src="https://i.imgur.com/yOURbaNNeR.png" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! Soy Romina Olivera Luna 👩‍💻</h1>
@@ -8,11 +8,11 @@
 
 ---
 
-### 💻 Sobre mí
+### 💼 Sobre mí
 
-🎓 Analista en Desarrollo de Software  
+🎓 Analista en Desarrollo de Software  y Lic. en Administración de empresas
 📍 Argentina  
-🛠️ Experiencia en desarrollo backend, reportería, automatización y análisis de datos  
+🛠️ Experiencia en desarrollo backend,front, reportería, automatización y análisis de datos  
 📈 En aprendizaje constante: Java, Spring Boot, Angular, Python orientado a datos
 
 ---
@@ -27,25 +27,25 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 🌱 Actualmente aprendiendo
 
+- 🔸 Java  
 - 🔸 Angular para desarrollo frontend moderno  
 - 🔸 Python con pandas, matplotlib y automatización de tareas  
-- 🔸 Machine Learning básico + Power BI
+- 🔸 Power BI y algo de Machine Learning
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RominaOlivera&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=romyluna&show_icons=true&theme=radical&hide_title=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RominaOlivera&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romyluna&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -53,8 +53,17 @@
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/romina-olivera)  
-- ✉️ romi.tuemail@gmail.com  
+- ✉️ rominalunaolivera@gmail.com  
 - 🌐 Portafolio en construcción
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
+</p>
+
+---
+
 
 ---
 
