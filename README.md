@@ -1,6 +1,6 @@
 <!-- Banner-->
 <p align="center">
-  <img src="https://i.imgur.com/yOURbaNNeR.png" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
+  <img src="https://github.com/romyluna/romyluna/blob/main/assets/banner git.png" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! Soy Romina Olivera Luna 👩‍💻</h1>
@@ -10,7 +10,7 @@
 
 ### 💼 Sobre mí
 
-🎓 Analista en Desarrollo de Software  y Lic. en Administración de empresas
+🎓 Analista en Desarrollo de Software y Lic. en Administración de empresas
 📍 Argentina  
 🛠️ Experiencia en desarrollo backend,front, reportería, automatización y análisis de datos  
 📈 En aprendizaje constante: Java, Spring Boot, Angular, Python orientado a datos
@@ -33,10 +33,10 @@
 
 ### 🌱 Actualmente aprendiendo
 
-- 🔸 Java  
-- 🔸 Angular para desarrollo frontend moderno  
-- 🔸 Python con pandas, matplotlib y automatización de tareas  
-- 🔸 Power BI y algo de Machine Learning
+ 🔸 Java  
+ 🔸 Angular para desarrollo frontend moderno  
+ 🔸 Python con pandas, matplotlib y automatización de tareas  
+ 🔸 Power BI y algo de Machine Learning
 
 ---
 
@@ -64,11 +64,3 @@
 
 ---
 
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
-</p>
-
----
