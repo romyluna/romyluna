@@ -1,7 +1,8 @@
 <!-- Banner-->
 <p align="center">
-  <img src="https://github.com/romyluna/romyluna/blob/main/assets/banner git.png" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
+  <img src="https://github.com/romyluna/romyluna/blob/main/banner%20git.png?raw=true" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
 </p>
+
 
 <h1 align="center">¡Hola! Soy Romina Olivera Luna 👩‍💻</h1>
 <p align="center">Analista de Desarrollo de Software | Apasionada por backend, datos y aprendizaje continuo</p>
