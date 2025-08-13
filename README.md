@@ -5,16 +5,28 @@
 
 
 <h1 align="center">¡Hola! Soy Romina Olivera Luna 👩‍💻</h1>
-<p align="center">Analista de Desarrollo de Software | Apasionada por backend, datos y aprendizaje continuo</p>
+<p align="center">Desarrolladora de Software </p>
 
 ---
 
 ### 💼 Sobre mí
 
-🎓 Analista en Desarrollo de Software y Lic. en Administración de empresas
+🎓 Analista en Desarrollo de Software
+</br>
 📍 Argentina  
-🛠️ Experiencia en desarrollo backend,front, reportería, automatización y análisis de datos  
-📈 En aprendizaje constante: Java, Spring Boot, Angular, Python orientado a datos
+
+Con experiencia en:
+- **Backend**: desarrollo de consultas y procedimientos almacenados en SQL.
+- **APIs**: conocimientos en desarrollo de APIs RESTful modernas y escalables.
+- **Lenguajes**: C# (.NET), Java (nivel básico).
+- **Herramientas**: Swagger, Postman.
+
+También cuento con:
+- **Frontend**: HTML, CSS, JavaScript.
+- **Control de versiones**: Git.
+- **Diseño**: Figma.
+
+🎯 **Objetivo**: Integrarme a equipos de desarrollo donde pueda aportar desde una visión técnica integral y seguir creciendo profesionalmente.
 
 ---
 
@@ -39,12 +51,11 @@
 ---
 
 ### 🌱 Actualmente aprendiendo
+**Desarrollo Backend:**  
+🔸 Java  
 
- 🔸 Java  
- 🔸 Angular para desarrollo frontend moderno  
- 🔸 Python con pandas, matplotlib y automatización de tareas  
- 🔸 Power BI y algo de Machine Learning
-
+**Frontend:**  
+🔸 Angular  
 ---
 
 ### 📊 GitHub Stats
