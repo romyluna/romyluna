@@ -5,7 +5,6 @@
 
 
 <h1 align="center">¡Hola! Soy Romina Olivera Luna 👩‍💻</h1>
-<p align="center">Desarrolladora de Software </p>
 
 ---
 
@@ -56,6 +55,7 @@ También cuento con:
 
 **Frontend:**  
 🔸 Angular  
+
 ---
 
 ### 📊 GitHub Stats
