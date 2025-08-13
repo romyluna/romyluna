@@ -11,7 +11,7 @@
 
 ### 💼 Sobre mí
 
-🎓 Analista en Desarrollo de Software
+🎓 Desarrolladora de Software
 </br>
 📍 Argentina  
 
