@@ -10,7 +10,7 @@
 
 ### 💼 Sobre mí
 
-🎓 Desarrolladora de Software
+🎓 Desarrolladora Full Stack Junior
 </br>
 📍 Argentina  
 
@@ -18,14 +18,17 @@ Con experiencia en:
 - **Backend**: desarrollo de consultas y procedimientos almacenados en SQL.
 - **APIs**: conocimientos en desarrollo de APIs RESTful modernas y escalables.
 - **Lenguajes**: C# (.NET), Java (nivel básico).
-- **Herramientas**: Swagger, Postman.
+- **Herramientas**: Swagger, Postman, Implementación de dashboards en Power BI,Excel para visualización de datos.
 
 También cuento con:
-- **Frontend**: HTML, CSS, JavaScript.
+- **Frontend**: HTML, CSS, JavaScript,Angular(en formación)
 - **Control de versiones**: Git.
 - **Diseño**: Figma.
 
-🎯 **Objetivo**: Integrarme a equipos de desarrollo donde pueda aportar desde una visión técnica integral y seguir creciendo profesionalmente.
+🎯 **Objetivo**:Actualmente, estoy abierta a oportunidades remotas o híbridas como Desarrolladora Frontend, Backend o Analista de Datos.
+</br>Me caracterizo por mi pensamiento analítico, adaptabilidad y capacidad para aprender nuevas tecnologías rápidamente, buscando aportar valor en entornos colaborativos.
+
+
 
 ---
 
