@@ -1,6 +1,6 @@
 <!-- Banner-->
 <p align="center">
-  <img src="https://github.com/romyluna/romyluna/blob/main/banner%20git.png?raw=true" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
+  <img src="https://github.com/romyluna/romyluna/blob/main/banner%20git2.png?raw=true" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
 </p>
 
 
@@ -10,7 +10,7 @@
 
 ### 💼 Sobre mí
 
-🎓 Desarrolladora Full Stack Junior
+🎓 Desarrolladora Full Stack Jr | Backend, Frontend y Análisis de Datos |  .NET, Java, SQL, HTML,CSS ,JS ,Angular, Power BI
 </br>
 📍 Argentina  
 
