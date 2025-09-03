@@ -73,7 +73,7 @@ También cuento con:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/romina-olivera)  
 - ✉️ rominalunaolivera@gmail.com  
-- 🌐 Portafolio en construcción
+- 🌐 [Portafolio:](https://rominaoliveraluna.netlify.app/)
 
 ---
 
