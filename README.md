@@ -78,8 +78,9 @@ También cuento con:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBrN2E4NTZ1Y2VuODR2bmx3eDV5aDBoYnV1Z3drNDFibDViYmpmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif" width="250" alt="Coding gif" />
 </p>
+
 
 ---
 
