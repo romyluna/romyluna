@@ -10,7 +10,7 @@
 
 ### 💼 Sobre mí
 
-🎓 Desarrolladora Full Stack Jr | Backend, Frontend y Análisis de Datos |  .NET, Java, SQL, HTML,CSS ,JS, Power BI
+🎓 Desarrolladora Full Stack Jr | Análisis de Datos |  .NET, Java, SQL, HTML,CSS ,JS, Power BI
 </br>
 📍 Argentina  
 
