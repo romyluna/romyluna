@@ -72,7 +72,11 @@ También cuento con:
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/romina-olivera)  
-- ✉️ rominalunaolivera@gmail.com  
+- ✉️ rominalunaolivera@gmail.com
+
+  🚧 Portfolio en construcción 🚧  
+Actualmente sigo aprendiendo y mejorando mis proyectos, por lo que este portfolio está visible pero en proceso.  
+
 - 🌐 [Portafolio](https://rominaoliveraluna.netlify.app/)
 
 ---
