@@ -75,9 +75,9 @@ También cuento con:
 - ✉️ rominalunaolivera@gmail.com
 
   🚧 Portfolio en construcción 🚧  
-Actualmente sigo aprendiendo y mejorando mis proyectos, por lo que este portfolio está visible pero en proceso.  
+Actualmente sigo aprendiendo y mejorando mis proyectos, por lo que este portfolio está en proceso.  
 
-- 🌐 [Portafolio](https://rominaoliveraluna.netlify.app/)
+- 🌐 [Portafolio]
 
 ---
 
