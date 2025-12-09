@@ -99,7 +99,7 @@ Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de apr
 - [bases](https://github.com/tu_usuario/bases) - Proyecto en TypeScript.  *curso*
 - [GymTraker](https://github.com/romyluna/GymTraker) - Proyecto en Java para seguimiento de rutinas y usuarios.  *En curso*
 
- ### Challenge técnico – Proyecto de Backend en Java
+ ### ⚙️ Challenge técnico – Proyecto de Backend en Java
 - Desarrollé un API en Java aplicando buenas prácticas de desarrollo.
 - Implementé **pruebas unitarias con JUnit y Mockito**, aprendi a usar estas herramientas por primera vez.
 - Proyecto aprobado con feedback positivo.
