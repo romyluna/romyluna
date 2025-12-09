@@ -1,6 +1,6 @@
 <!-- Banner-->
 <p align="center">
-     <img src="https://github.com/romyluna/romyluna/blob/main/banner_3.png?raw=true" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
+     <img src="https://github.com/romyluna/romyluna/blob/main/banner git5.png?raw=true" alt="Romina Olivera Luna - Full Stack Developer" width="100%" />
 </p>
 
 
@@ -15,18 +15,31 @@
 📍 Argentina  
 
 Con experiencia en:
-- **Backend**: desarrollo de consultas y procedimientos almacenados en SQL.
-- **APIs**: conocimientos en desarrollo de APIs RESTful modernas y escalables.
-- **Lenguajes**: C# (.NET), Java
-- **Herramientas**: Swagger, Postman, Implementación de dashboards en Power BI,Excel para visualización de datos.
 
-También cuento con:
-- **Frontend**: HTML, CSS, JavaScript
-- **Control de versiones**: Git.
-- **Diseño**: Figma.
+**Data / Analytics:**  
+- Power BI, Excel
+- Python, pandas, NumPy, matplotlib, n8n   
+- Bases de datos: SQL Server, MySQL, MongoDB  
 
-🎯 **Objetivo**:Actualmente, estoy abierta a oportunidades remotas o híbridas como Desarrolladora Frontend, Backend o Analista de Datos.
-</br>Me caracterizo por mi pensamiento analítico, adaptabilidad y capacidad para aprender nuevas tecnologías rápidamente, buscando aportar valor en entornos colaborativos.
+**Backend / Desarrollo:**  
+- Desarrollo de consultas y procedimientos almacenados en SQL  
+- Desarrollo de APIs RESTful modernas y escalables  
+- Lenguajes: C# (.NET), Java  
+- Herramientas: Swagger, Postman
+  
+- **Pruebas unitarias:** JUnit, Mockito (aprendidas y aplicadas en challenge práctico)
+
+**Frontend:**  
+- HTML, CSS, JavaScript  
+
+**Control de versiones y diseño:**  
+- Git, Figma  
+
+### 🎯 Objetivo
+Actualmente estoy abierta a oportunidades **remotas o híbridas** como **Desarrolladora Frontend, Backend o Analista de Datos**, donde pueda aplicar tanto mis habilidades de programación como de análisis de datos.  
+
+Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de aprender nuevas tecnologías rápidamente**, buscando aportar valor en entornos colaborativos.
+
 
 ---
 
@@ -85,6 +98,12 @@ También cuento con:
 - [Java-Standard-Web-Programming](https://github.com/romyluna/Java-Standard-Web-Programming) - Curso Java Standard Web Programming 2025. *clases* 
 - [bases](https://github.com/tu_usuario/bases) - Proyecto en TypeScript.  *curso*
 - [GymTraker](https://github.com/romyluna/GymTraker) - Proyecto en Java para seguimiento de rutinas y usuarios.  *En curso*
+
+ ### Challenge técnico – Proyecto de Backend en Java
+- Desarrollé un API en Java aplicando buenas prácticas de desarrollo.
+- Implementé **pruebas unitarias con JUnit y Mockito**, aprendi a usar estas herramientas por primera vez.
+- Proyecto aprobado con feedback positivo.
+- Proyecto relacionado con análisis de un portafolio de inversiones *(próximamente subiré una versión demo anónima).*
 
 ---
 
