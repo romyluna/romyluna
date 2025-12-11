@@ -36,7 +36,7 @@ Con experiencia en:
 - Git, Figma  
 
 ### 🎯 Objetivo
-Actualmente estoy abierta a oportunidades **remotas o híbridas** como **Desarrolladora Frontend, Backend o Analista de Datos**, donde pueda aplicar tanto mis habilidades de programación como de análisis de datos.  
+Actualmente estoy abierta a oportunidades **remotas o híbridas** como **Desarrolladora de software o Analista de Datos**, donde pueda aplicar tanto mis habilidades de programación como de análisis de datos.  
 
 Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de aprender nuevas tecnologías rápidamente**, buscando aportar valor en entornos colaborativos.
 
@@ -80,24 +80,26 @@ Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de apr
 ## 📊 Proyectos de Data / Análisis
 
 - [Python_Mkt_Banco_Portugues](https://github.com/romyluna/Python_Mkt_Banco_Portugues) - Análisis de campaña de marketing con Python (pandas, matplotlib, Jupyter Notebook).  
-- [N8N-clasificador-inteligente-leads](https://github.com/romyluna/N8N-clasificador-inteligente-leads) - Automatización de captura y clasificación de leads mediante IA, email, Slack y Google Sheets.  
 - [python_platzi_1](https://github.com/romyluna/python_platzi_1) - Visualización de datos con Python desde Excel, JSON, CSV.  
 - [Dashboard-Financiero-Creditos-y-Mora-BancoDemo-](https://github.com/romyluna/Dashboard-Financiero-Creditos-y-Mora-BancoDemo-) - Base de datos para consultas SQL de clientes y créditos.  
 - [Python_Analisis_Creditos](https://github.com/romyluna/Python_Analisis_Creditos) - Proyecto Python para analizar y validar datos de créditos bancarios + Power BI.
-
+- [N8N-clasificador-inteligente-leads](https://github.com/romyluna/N8N-clasificador-inteligente-leads) - Automatización de captura y clasificación de leads mediante IA, email, Slack y Google Sheets.
+  
 ---
 
 ## 🔹 Proyectos de Programación
 
 - [API_Spring_Proyecto_Uno](https://github.com/romyluna/API_Spring_Proyecto_Uno) - Backend Java con Spring para práctica de APIs.  
 - [Api_Facturacion](https://github.com/romyluna/Api_Facturacion) - Backend API facturación en Java.  
-- [ApiPeliculasMVC](https://github.com/romyluna/ApiPeliculasMVC) - Backend API en C#.  
-- [java-backend-educacionit](https://github.com/romyluna/java-backend-educacionit) - Curso de backend Java (Educacion IT 2025).  
-- [E-Commerce-ISTEA](https://github.com/romyluna/E-Commerce-ISTEA) - E-commerce simple (HTML-CSS-JS). 
-- [BlogCafe](https://github.com/romyluna/BlogCafe) - Blog de café (HTML-CSS-JS).  
-- [Java-Standard-Web-Programming](https://github.com/romyluna/Java-Standard-Web-Programming) - Curso Java Standard Web Programming 2025. *clases* 
-- [bases](https://github.com/tu_usuario/bases) - Proyecto en TypeScript.  *curso*
+- [ApiPeliculasMVC](https://github.com/romyluna/ApiPeliculasMVC) - Backend API en C#.
 - [GymTraker](https://github.com/romyluna/GymTraker) - Proyecto en Java para seguimiento de rutinas y usuarios.  *En curso*
+- [E-Commerce-ISTEA](https://github.com/romyluna/E-Commerce-ISTEA) - E-commerce simple (HTML-CSS-JS). 
+- [BlogCafe](https://github.com/romyluna/BlogCafe) - Blog de café (HTML-CSS-JS).</br>
+  **Cursos-Clases**
+- [Java-Standard-Web-Programming](https://github.com/romyluna/Java-Standard-Web-Programming) - Curso Java Standard Web Programming 2025. 
+- [bases](https://github.com/tu_usuario/bases) - Proyecto en TypeScript. 
+- [java-backend-educacionit](https://github.com/romyluna/java-backend-educacionit) - Curso de backend Java (Educacion IT 2025).  
+
 
  ### ⚙️ Challenge técnico – Proyecto de Backend en Java
 - Desarrollé un API en Java aplicando buenas prácticas de desarrollo.
