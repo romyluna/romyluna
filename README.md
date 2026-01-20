@@ -102,14 +102,15 @@ Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de apr
 
 
  ### ⚙️ Challenge técnico – Proyecto de Backend en Java
-Desarrollé una **API REST en Java 21** aplicando buenas prácticas de desarrollo.
-Implementé pruebas unitarias con **JUnit 5 y Mockito**, aprendiendo a usar estas herramientas por primera vez.
-Se centra en el análisis de portafolios de inversión, con gestión de usuarios, activos y posiciones de inversión.
+Desarrollé una **API REST en Java 21** aplicando buenas prácticas de desarrollo.</br>
+Implementé pruebas unitarias con **JUnit 5 y Mockito**, aprendiendo a usar estas herramientas por primera vez.</br>
+Se centra en el análisis de portafolios de inversión, con gestión de usuarios, activos y posiciones de inversión.</br>
 
 - [simulador_inversiones](https://github.com/romyluna/simulador_inversiones) – Challenge técnico en Java: API REST con testing unitario (JUnit & Mockito) para gestión de portafolios de inversión.
 
-✅ Feedback positivo del challenge técnico.
-⚠️ *El código completo está disponible bajo pedido.*
+✅ Feedback positivo del challenge técnico.</br>
+</br>📖 *Para más detalles sobre endpoints, configuración y uso, revisá el README del repositorio.*  </br>
+</br>⚠️ *El código completo está disponible bajo pedido.*
 
 ---
 
