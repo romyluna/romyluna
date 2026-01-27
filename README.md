@@ -79,7 +79,7 @@ Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de apr
 
 ## 📊 Proyectos de Data / Análisis
 
--[Ecommerce Sales Analysis Power BI](https://github.com/romyluna/ecommerce-sales-analysis-powerbi) - Análisis de ventas de e-commerce utilizando Power BI y visualización de KPIs.
+- [Ecommerce Sales Analysis Power BI](https://github.com/romyluna/ecommerce-sales-analysis-powerbi) - Análisis de ventas de e-commerce utilizando Power BI y visualización de KPIs.
 - [Python_Mkt_Banco_Portugues](https://github.com/romyluna/Python_Mkt_Banco_Portugues) - Análisis de campaña de marketing con Python (pandas, matplotlib, Jupyter Notebook).  
 - [python_platzi_1](https://github.com/romyluna/python_platzi_1) - Visualización de datos con Python desde Excel, JSON, CSV.  
 - [Dashboard-Financiero-Creditos-y-Mora-BancoDemo-](https://github.com/romyluna/Dashboard-Financiero-Creditos-y-Mora-BancoDemo-) - Base de datos para consultas SQL de clientes y créditos.  
