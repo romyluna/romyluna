@@ -12,7 +12,6 @@
 
 🎓 Analista de Datos | Desarrolladora de software 
 </br>
-📍 Argentina  
 
 Con experiencia en:
 
@@ -21,22 +20,16 @@ Con experiencia en:
 - Python, pandas, NumPy, matplotlib, n8n   
 - Bases de datos: SQL Server, MySQL, MongoDB  
 
-**Backend / Desarrollo:**  
+**Desarrollo de Software:**  
 - Desarrollo de consultas y procedimientos almacenados en SQL  
 - Desarrollo de APIs RESTful modernas y escalables  
 - Lenguajes: C# (.NET), Java  
 - Herramientas: Swagger, Postman
-  
-- **Pruebas unitarias:** JUnit, Mockito (aprendidas y aplicadas en challenge práctico)
-
-**Frontend:**  
 - HTML, CSS, JavaScript  
-
-**Control de versiones y diseño:**  
-- Git, Figma  
+- Git, Figma
+-Pruebas unitarias: JUnit, Mockito (aprendidas y aplicadas en challenge práctico)  
 
 ### 🎯 Objetivo
-Actualmente estoy abierta a oportunidades **remotas o híbridas** como **Analista de Datos o Desarrolladora de software *, donde pueda aplicar tanto mis habilidades de análisis de datos como programación.
 
 Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de aprender nuevas tecnologías rápidamente**, buscando aportar valor en entornos colaborativos.
 
@@ -114,15 +107,6 @@ Se centra en el análisis de portafolios de inversión, con gestión de usuarios
 ✅ Feedback positivo del challenge técnico.</br>
 </br>📖 *Para más detalles sobre endpoints, configuración y uso, revisá el README del repositorio.*  </br>
 </br>⚠️ *El código completo está disponible bajo pedido.*
-
----
-
-### 🌱 Actualmente aprendiendo
-**Desarrollo Backend:**  
-🔸 Java 
-
-**Analisis de datos:**  
-🔸 Python(Numpy,matplotlib,Pandas)
 
 ---
 
