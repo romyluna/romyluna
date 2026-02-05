@@ -16,7 +16,7 @@
 
 Con experiencia en:
 
-**Data / Analytics:**  
+**Data Analytics:**  
 - Power BI, Excel
 - Python, pandas, NumPy, matplotlib, n8n   
 - Bases de datos: SQL Server, MySQL, MongoDB  
@@ -36,10 +36,9 @@ Con experiencia en:
 - Git, Figma  
 
 ### 🎯 Objetivo
-Actualmente estoy abierta a oportunidades **remotas o híbridas** como **Desarrolladora de software o Analista de Datos**, donde pueda aplicar tanto mis habilidades de programación como de análisis de datos.  
+Actualmente estoy abierta a oportunidades **remotas o híbridas** como **Analista de Datos o Desarrolladora de software *, donde pueda aplicar tanto mis habilidades de análisis de datos como programación.
 
 Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de aprender nuevas tecnologías rápidamente**, buscando aportar valor en entornos colaborativos.
-
 
 ---
 
