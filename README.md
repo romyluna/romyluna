@@ -79,6 +79,7 @@ Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de apr
 
 ## 📊 Proyectos de Data / Análisis
 
+- [PowerBI Análisis Ventas ElectroMas](https://github.com/romyluna/PowerBI_Analisis_Ventas_ElectroMas/tree/master) – Análisis de ventas de una empresa de electrodomésticos utilizando Power BI, con foco en la evolución de ventas, comparación por categorías de productos, canales de venta (tiendas físicas y online) y distribución geográfica de clientes.
 - [PowerBI Analisis Ventas Supermercado](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado) - Análisis de ventas de supermercado utilizando Power BI, con foco en tendencias, estacionalidad y desempeño por región y sucursal.
 - [Ecommerce Sales Analysis Power BI](https://github.com/romyluna/ecommerce-sales-analysis-powerbi) - Análisis de ventas de e-commerce utilizando Power BI y visualización de KPIs.
 - [Python_Mkt_Banco_Portugues](https://github.com/romyluna/Python_Mkt_Banco_Portugues) - Análisis de campaña de marketing con Python (pandas, matplotlib, Jupyter Notebook).  
