@@ -47,6 +47,8 @@ Me caracterizo por mi **pensamiento analítico, adaptabilidad y capacidad de apr
 
 ### 📊 Tecnologías de Data / Análisis
 
+Para ver los proyectos, hacé click en cada uno de ellos:
+
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
